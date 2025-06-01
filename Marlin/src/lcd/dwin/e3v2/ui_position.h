@@ -13,7 +13,7 @@
     #define WORD_TITLE_X 29 
     #define WORD_TITLE_Y 1
     #define OUTLINE_LEFT_X 12//40
-    #define OUTLINE_LEFT_Y 30//72
+    #define OUTLINE_LEFT_Y 2//72
     #define OUTLINE_RIGHT_X OUTLINE_LEFT_X+220//OUTLINE_LEFT_X+200//OUTLINE_LEFT_X+160
     #define OUTLINE_RIGHT_Y OUTLINE_LEFT_Y+220//OUTLINE_LEFT_Y+160
     //button——position
